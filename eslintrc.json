@@ -1,0 +1,16 @@
+{
+  "extends": "standard",
+
+  "plugins": [
+    "flowtype"
+  ],
+
+  "rules": {
+    "semi": [2, "always"],
+    "no-extra-semi": 2,
+    "semi-spacing": [2, { "before": false, "after": false }],
+    "camelcase": 0,
+    "object-curly-spacing": [2, "always"],
+    "space-after-function-name": [2, "never"]
+  }
+}

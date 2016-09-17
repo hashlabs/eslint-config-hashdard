@@ -1,0 +1,52 @@
+{
+  "name": "eslint-config-hashdard",
+  "description": "eslint sharable config for hashdard",
+  "version": "1.0.0",
+  "author": "Orlando Del Aguila <orlando@hashlabs.com.com>",
+  "bugs": {
+    "url": "https://github.com/hashlabs/eslint-config-hashdard/issues"
+  },
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-standard": "^2.0.0",
+    "eslint-plugin-flowtype": "^2.18.1"
+  },
+  "homepage": "https://github.com/Flet/eslint-config-semistandard",
+  "keywords": [
+    "semistandard",
+    "style checker",
+    "code style",
+    "code checker",
+    "code linter",
+    "style linter",
+    "simple",
+    "policy",
+    "style",
+    "code",
+    "lint",
+    "eslint",
+    "eslintconfig",
+    "jshint",
+    "jscs",
+    "hint",
+    "enforce",
+    "check",
+    "verify",
+    "quality",
+    "checker",
+    "code standards",
+    "JavaScript Semistandard Style",
+    "semistandard style",
+    "eslintconfig"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Flet/eslint-config-semistandard.git"
+  },
+  "peerDependencies": {
+    "eslint-config-standard": "^6.0.0"
+  }
+}
