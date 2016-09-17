@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-hashdard",
   "description": "eslint sharable config for hashdard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Orlando Del Aguila <orlando@hashlabs.com.com>",
   "bugs": {
     "url": "https://github.com/hashlabs/eslint-config-hashdard/issues"
