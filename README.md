@@ -25,3 +25,9 @@ For more details see [eslint-config-standard](https://github.com/feross/eslint-c
 ## License
 
 [ISC](LICENSE.md)
+
+## About Hash Labs
+
+![hash labs logo](https://www.hashlabs.com/images/hashlabs_logo_horizontal_02.png)
+
+eslint-config-hashdard is maintained and funded by Hash Labs LLC
