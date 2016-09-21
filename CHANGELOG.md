@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.0.2]
+### Changed
+* `space-after-function-paren` rule. Specifying `always` for `anonymous functions` and `never` for `named functions`
+
 ## [1.0.1]
 ### Fixed
 * `space-after-function-name` is deprecated. Using `space-before-function-paren` instead

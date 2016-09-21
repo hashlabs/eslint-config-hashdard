@@ -11,6 +11,8 @@
     "semi-spacing": [2, { "before": false, "after": false }],
     "camelcase": 0,
     "object-curly-spacing": [2, "always"],
-    "space-before-function-paren": [2, "never"]
+    "space-before-function-paren": [
+      2, { "anonymous": "always", "named": "never" }
+    ]
   }
 }
