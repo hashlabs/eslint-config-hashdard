@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+### Added
+
+* Rule for quotes in jsx attributes
+* Rule for spacing in parenthesis within jsx attributes
+
 ## [1.0.2]
 ### Changed
 * `space-after-function-paren` rule. Specifying `always` for `anonymous functions` and `never` for `named functions`
