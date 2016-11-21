@@ -2,8 +2,8 @@
 
 ## [Unreleased]
 
+## [1.0.3] - 2016-11-21
 ### Added
-
 * Rule for quotes in jsx attributes
 * Rule for spacing in parenthesis within jsx attributes
 
@@ -18,5 +18,7 @@
 ## 1.0.0
 * First Release :tada:
 
-[Unreleased]: https://github.com/hashlabs/eslint-config-hashdard/compare/1.0.1...HEAD
+[Unreleased]: https://github.com/hashlabs/eslint-config-hashdard/compare/1.0.3...HEAD
+[1.0.3]: https://github.com/hashlabs/eslint-config-hashdard/compare/1.0.2...1.0.3
+[1.0.2]: https://github.com/hashlabs/eslint-config-hashdard/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/hashlabs/eslint-config-hashdard/compare/1.0.0...1.0.1
